@@ -1,5 +1,9 @@
 /* @group overwrite of foundation */
 
+h3 {
+	font-size: 2.125rem;
+	letter-spacing: 0.2rem;
+}
 
 /* @end */
 
@@ -15,6 +19,10 @@
         url('../font/Steelfish-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
+}
+
+.steelfish {
+	font-family: 'Steelfish-Regular';
 }
 
 /* @end */
